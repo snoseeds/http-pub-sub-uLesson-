@@ -1,0 +1,15 @@
+{
+  "eventTargetType": "Subscriber",
+  "eventTargetTypeIdColVal": "4ab2acbf-f5f4-4991-8003-39a7ee7f79ed",
+  "dataJSON": "{\"intent\":\"let's start chatting\"}",
+  "lastChangedDateTime": "2021-10-03T06:48:03.584Z",
+  "id": "be409d30-e296-43c2-875e-36232ba74e41",
+  "createDateTime": "2021-10-03T06:48:03.584Z",
+  "numOfSubscribers": 1,
+  "webhooksStatusesAndValues": [
+    {
+      "status": "fulfilled",
+      "value": "http://localhost:8000/event"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "eventTargetType": "Topic",
+  "eventTargetTypeIdColVal": "1a0d89d6-d729-43c1-a1b1-dd39a351b3cd",
+  "dataJSON": "{\"morale\":\"let's warm up\"}",
+  "lastChangedDateTime": "2021-10-03T12:34:41.886Z",
+  "id": "669cffca-0a4e-4da3-a607-bf7f61d26558",
+  "createDateTime": "2021-10-03T12:34:41.886Z",
+  "numOfSubscribers": 2,
+  "webhooksStatusesAndValues": [
+    {
+      "status": "fulfilled",
+      "value": "http://localhost:8000/workroom"
+    },
+    {
+      "status": "fulfilled",
+      "value": "http://localhost:8000/adventure"
+    }
+  ]
+}

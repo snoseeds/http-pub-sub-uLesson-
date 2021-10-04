@@ -1,0 +1,15 @@
+{
+  "eventTargetType": "Topic",
+  "eventTargetTypeIdColVal": "8aa9c057-15ed-456e-baa6-f91112f98fd1",
+  "dataJSON": "{\"oops\":\"no problem\"}",
+  "lastChangedDateTime": "2021-10-02T14:05:29.317Z",
+  "id": "a146bc3e-8729-4cb1-ad1e-df59e74dfa9e",
+  "createDateTime": "2021-10-02T14:05:29.317Z",
+  "numOfSubscribers": 1,
+  "webhooksStatusesAndValues": [
+    {
+      "status": "rejected",
+      "reason": "http://localhost:8000/event"
+    }
+  ]
+}

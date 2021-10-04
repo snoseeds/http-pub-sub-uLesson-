@@ -1,0 +1,15 @@
+{
+  "eventTargetType": "Subscriber",
+  "eventTargetTypeIdColVal": "4ab2acbf-f5f4-4991-8003-39a7ee7f79ed",
+  "dataJSON": "{}",
+  "lastChangedDateTime": "2021-10-02T14:22:02.976Z",
+  "id": "b651b6f7-310f-4af1-9b44-0b2e92e18660",
+  "createDateTime": "2021-10-02T14:22:02.976Z",
+  "numOfSubscribers": 1,
+  "webhooksStatusesAndValues": [
+    {
+      "status": "fulfilled",
+      "value": "http://localhost:8000/event"
+    }
+  ]
+}

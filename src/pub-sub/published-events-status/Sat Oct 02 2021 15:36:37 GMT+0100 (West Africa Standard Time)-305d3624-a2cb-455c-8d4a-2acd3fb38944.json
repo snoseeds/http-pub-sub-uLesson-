@@ -1,0 +1,15 @@
+{
+  "eventTargetType": "Topic",
+  "eventTargetTypeIdColVal": "8aa9c057-15ed-456e-baa6-f91112f98fd1",
+  "dataJSON": "{\"morale\":\"paradigm shifting\"}",
+  "lastChangedDateTime": "2021-10-02T14:36:37.695Z",
+  "id": "305d3624-a2cb-455c-8d4a-2acd3fb38944",
+  "createDateTime": "2021-10-02T14:36:37.695Z",
+  "numOfSubscribers": 1,
+  "webhooksStatusesAndValues": [
+    {
+      "status": "fulfilled",
+      "value": "http://localhost:8000/event"
+    }
+  ]
+}

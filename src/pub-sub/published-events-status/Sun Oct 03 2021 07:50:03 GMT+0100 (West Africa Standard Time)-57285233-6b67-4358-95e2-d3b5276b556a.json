@@ -1,0 +1,15 @@
+{
+  "eventTargetType": "Subscriber",
+  "eventTargetTypeIdColVal": "2b35331c-813a-4a71-9405-dec65830cf2d",
+  "dataJSON": "{\"intent\":\"let's start chatting\"}",
+  "lastChangedDateTime": "2021-10-03T06:50:03.651Z",
+  "id": "57285233-6b67-4358-95e2-d3b5276b556a",
+  "createDateTime": "2021-10-03T06:50:03.651Z",
+  "numOfSubscribers": 1,
+  "webhooksStatusesAndValues": [
+    {
+      "status": "rejected",
+      "reason": "http://localhost:8000/workroom"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "eventTargetType": "Subscriber",
+  "eventTargetTypeIdColVal": "a6cb002f-f2ba-4418-8da7-cc245dcc8150",
+  "dataJSON": "{\"inspiration\":\"Audacity is a strength\"}",
+  "lastChangedDateTime": "2021-10-04T03:45:27.783Z",
+  "id": "e662b7ea-f0ea-4532-b16d-8e934d205cd7",
+  "createDateTime": "2021-10-04T03:45:27.783Z",
+  "numOfSubscribers": 1,
+  "webhooksStatusesAndValues": [
+    {
+      "status": "rejected",
+      "reason": {
+        "webHookUrl": "http://localhost:8000/eventy",
+        "error": "Error: connect ECONNREFUSED 127.0.0.1:8000"
+      }
+    }
+  ]
+}
