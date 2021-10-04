@@ -37,10 +37,9 @@ Built with Postman [link](https://documenter.getpostman.com/view/6777319/UUy3ASX
 run: 
 ```Bash
     $ git clone https://github.com/snoseeds/http-pub-sub
-    $ cd natterbase-test
-    $ npm run start:dev
+    $ cd http-pub-sub
     $ npm install
-    $ npm start
+    $ npm run start:dev
 ```
 
 ### Tests
