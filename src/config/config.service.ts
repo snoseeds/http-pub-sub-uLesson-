@@ -3,9 +3,8 @@ import { TypeOrmModuleOptions } from '@nestjs/typeorm';
 import { join } from 'path';
 import path from "path"
 
-// TO DO: Use Nest's way to expose this constant globally
-// const MODE = 'TEST'; // DEV, PROD
-const MODE = 'TEST';
+const MODE = 'DEV'; // DEV, PROD
+// const MODE = 'TEST';
 
 const envResolver = {
   prod(): void {
